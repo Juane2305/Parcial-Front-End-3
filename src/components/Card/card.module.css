@@ -1,0 +1,23 @@
+.title{
+    color: rgb(255, 156, 90);
+    font-size: 45px;
+}
+
+.eleccion{
+    font-weight: bold;
+    font-size: 23px;
+    color: black;
+}
+
+
+.nombre{
+    font-size: 20px;
+    color: rgb(88, 87, 87);
+}
+
+
+.box{
+    border: 1px solid rgb(88, 87, 87);
+    border-radius: 30px;
+    margin: 70px 30%;
+}
